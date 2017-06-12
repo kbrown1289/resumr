@@ -1,0 +1,61 @@
+.heading p {
+   border: solid;
+   -webkit-margin-end: 97em;
+   height:2em;
+}
+
+.topnav {
+    position: relative;
+    top: -3em;
+    float: right
+}
+
+.image {
+    margin-top: 87px;
+    float: left;
+    position: relative;
+    left: 16em;
+    height: 350px;
+    width: 54%;
+}
+
+h1 {
+    position: relative;
+    top: 8em;
+    left: -16em;
+    font-size: 42px;
+    margin-right: 8em;
+}
+
+h6 {
+    position: relative;
+    top: 13em;
+    right: -13em;
+    font-size: 17px;
+    left: -31em;
+}
+
+.h1 {
+    position: relative;
+    top: -2em;
+    left: 3em;
+    font-size: 41px;
+
+}
+
+KB {
+    
+}
+   
+   
+   
+     
+
+
+
+
+
+
+
+
+  
